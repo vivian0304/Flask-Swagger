@@ -1,0 +1,13 @@
+bucket
+db
+excer
+module
+module2
+static
+app2.py
+m_config.py
+db_config.py
+pyvenv.cfg
+__pycache__
+Lib
+Scripts
